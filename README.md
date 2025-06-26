@@ -1,5 +1,5 @@
 <div align="center">  
-  <a href="https://background-animation-halloween2.netlify.app/" target="_blank">  
+  <a href="https://background-animation-halloween-2.netlify.app/" target="_blank">  
     <img src=".docs/preview.png" alt="Aperçu de la page Halloween 2 animée">  
   </a>  
   </br></br>  
@@ -15,7 +15,8 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Page d’accueil interactive sur le thème d’Halloween, utilisant la bibliothèque **Atropos.js** pour un effet parallax 3D.  
+Page d’accueil interactive sur le thème d’Halloween, utilisant la bibliothèque **Atropos.js** pour un effet parallax 3D.
+
 Le design combine animations effrayantes, citrouilles, et un bouton d’appel à l’action immersif.
 
 Idéale pour événements d’Halloween, pages de promotions ou animations web thématiques.
